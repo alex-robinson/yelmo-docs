@@ -87,7 +87,7 @@ That's it! You now have all of the Yelmo code in the local path `LOCAL_PATH`.
 ### Bare (central) repository locations 
 
 PIK repository location: `/iplex/01/tumble/robinson/repos/yelmo`  
-UCM repository location: `/home/fispalma25/repos/yelmo`
+UCM repository location: `/home/fispalma25/repos/yelmo_mirror`
 
 ## Compiling Yelmo programs
 
